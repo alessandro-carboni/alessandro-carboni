@@ -29,5 +29,5 @@ HackTheBox • TryHackMe
 
 ## Contact
 
-LinkedIn: linkedin.com/in/alessandro-carboni  
+LinkedIn: https://www.linkedin.com/in/alessandro-carboni-0012a5352/
 Email: alessandro.carboni.7@gmail.com
