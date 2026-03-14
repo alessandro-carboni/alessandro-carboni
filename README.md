@@ -1,16 +1,33 @@
-## Hi there 👋
+# Alessandro Carboni
 
-<!--
-**alessandro-carboni/alessandro-carboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity graduate student focused on building security tooling and studying real-world vulnerabilities.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Fuzzing and crash triage  
+• Reverse engineering and binary analysis  
+• Application security  
+• Cloud security misconfigurations  
+
+## Selected Projects
+
+### fuzz-triage-pipeline
+Coverage-guided fuzzing pipeline with automated crash triage and reporting.
+
+### ghidra-scripts-pack
+Automation scripts for reverse engineering workflows using Ghidra.
+
+### QRStrike
+Security research toolkit for QR payload analysis, fuzzing and redirect chain inspection.
+
+### secure-app-threatmodel-lab
+Threat modeling laboratory using STRIDE methodology with exploit demonstrations.
+
+## Platforms
+
+HackTheBox • TryHackMe
+
+## Contact
+
+LinkedIn: linkedin.com/in/alessandro-carboni  
+Email: alessandro.carboni.7@gmail.com
